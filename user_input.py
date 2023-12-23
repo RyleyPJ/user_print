@@ -12,6 +12,6 @@ def print_greeting(name, age):
         # Get's user input
         user_name, user_age = get_user_input()
 
-        # Prints personalised greeting
+        # Prints personalized greeting
 
         print_greeting(user_name, user_age)
